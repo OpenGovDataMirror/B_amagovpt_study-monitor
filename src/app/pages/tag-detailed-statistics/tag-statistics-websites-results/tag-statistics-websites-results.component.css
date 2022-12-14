@@ -1,0 +1,44 @@
+table, td {
+  text-align: center;
+}
+
+table td a {
+  color: purple;
+}
+
+.hide {
+  display: none;
+}
+
+.scorerror {
+  background-color: #fcc;
+}
+
+.scoreok {
+  background-color: #cfc;
+}
+
+.scorewar {
+  background-color: #ffc;
+}
+
+.elem_header {
+  background-color: black;
+  color: white;
+}
+
+::ng-deep mark {
+  background-color: yellow;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+th, td {
+  padding: 0.5em;
+}
